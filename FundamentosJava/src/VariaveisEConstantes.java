@@ -8,7 +8,7 @@ public class VariaveisEConstantes {
         int lote = 7890;
         boolean aprovado = true;
 
-        E = 1.48e2; // Erro: não é possível alterar o valor de uma constante
+        // E = 1.48e2; // Erro: não é possível alterar o valor de uma constante
 
         System.out.println("Nome: " + nome);
         System.out.println("Lote: " + lote);
